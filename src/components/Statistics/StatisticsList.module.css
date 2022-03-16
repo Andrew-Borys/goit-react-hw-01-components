@@ -1,0 +1,22 @@
+.title {
+  text-align: center;
+  font-size: 35px;
+  color: #2b2b2b;
+}
+
+.statsList {
+  display: flex;
+  margin-top: 15px;
+  box-shadow: 0px 1px 3px #555;
+}
+
+.statistics {
+  background-color: rgb(212, 196, 175);
+  min-height: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}

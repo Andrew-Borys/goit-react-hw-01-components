@@ -1,0 +1,19 @@
+.tableRow {
+  display: flex;
+  justify-content: space-around;
+  height: 35px;
+}
+
+.tableRowElement {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  border-bottom: 2px solid #fff;
+}
+
+.tableRowElement:not(:last-child) {
+  border-right: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+}

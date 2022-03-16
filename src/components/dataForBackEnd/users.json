@@ -1,0 +1,35 @@
+[
+  {
+    "username": "Snoop Dogg",
+    "tag": "sdogg",
+    "location": "Long Beach, California, USA",
+    "avatar": "https://media.gettyimages.com/photos/snoop-dogg-attends-hbo-game-of-thrones-presents-snoop-dogg-catch-the-picture-id467066492?s=2048x2048",
+    "stats": {
+      "followers": 534603,
+      "views": 4823427,
+      "likes": 1398708
+    }
+  },
+  {
+    "username": "Jackie Chan",
+    "tag": "jchan",
+    "location": "Victoria Peak, Hong Kong",
+    "avatar": "https://media.gettyimages.com/photos/jackie-chan-attends-the-uk-film-premiere-of-the-karate-kid-at-odeon-picture-id102916055?s=2048x2048",
+    "stats": {
+      "followers": 560123,
+      "views": 48217,
+      "likes": 135908
+    }
+  },
+  {
+    "username": "Will Smith",
+    "tag": "wsmith",
+    "location": "Philadelphia, Pennsylvania, USA",
+    "avatar": "https://media.gettyimages.com/photos/actorrapper-will-smith-attends-the-concussion-new-york-premiere-at-picture-id501695952?s=2048x2048",
+    "stats": {
+      "followers": 509603,
+      "views": 457698,
+      "likes": 87907
+    }
+  }
+]

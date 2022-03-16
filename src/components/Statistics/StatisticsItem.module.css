@@ -1,0 +1,18 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.label,
+.percentage {
+  font-size: 15px;
+  font-weight: 400;
+  color: white;
+}
+
+.percentage {
+  font-size: 20px;
+}
