@@ -1,16 +1,10 @@
 import React from 'react';
-import propTypes from 'prop-types';
 import StatisticsItem from './StatisticsItem';
+import propTypes from 'prop-types';
+import randomColor from '../helpers/randomColor';
 import style from './StatisticsList.module.css';
 
 const StatisticsList = ({ title, stats }) => {
-  function randomColor() {
-    let color =
-      '#' +
-      (Math.random().toString(16) + '000000').substring(2, 8).toUpperCase() +
-      '80';
-    return color;
-  }
   return (
     <section className={style.statistics}>
       {title && <h2 className={style.title}>{title}</h2>}
